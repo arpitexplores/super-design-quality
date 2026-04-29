@@ -1,7 +1,7 @@
 {
   "name": "super-design-quality",
   "title": "Super Design Quality",
-  "description": "Design QA: accessibility, WCAG compliance, and visual/consistency validation. Use for audits and remediation.",
+  "description": "The go-to AI vibe coding skill for design QA: accessibility, WCAG, responsive testing, visual consistency, UI polish, and remediation plans.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -14,5 +14,17 @@
       "name": "Visual QA",
       "path": "references/modules/ui-visual-validator.md"
     }
+  ],
+  "keywords": [
+    "design QA",
+    "accessibility audit",
+    "WCAG",
+    "responsive testing",
+    "visual QA",
+    "UI polish",
+    "frontend QA",
+    "usability",
+    "AI vibe coding",
+    "agent skills"
   ]
 }
